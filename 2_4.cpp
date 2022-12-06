@@ -9,6 +9,11 @@ int main()
     int M, N;
     char foo;
     
+    while (true) {
+        cin >> M;
+        if ((M < 2) || (M > 5)) continue;
+        else break;
+    }
 
     int matr[M][M];
     cin >> foo;
