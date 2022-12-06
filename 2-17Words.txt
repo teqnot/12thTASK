@@ -82,7 +82,6 @@ Jones
 Judge
 Knife
 Laura
-Layer
 Level
 Lewis
 Light
@@ -93,7 +92,6 @@ March
 Match
 Metal
 Model
-Money
 Month
 Motor
 Mouth
