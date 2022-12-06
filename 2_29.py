@@ -15,7 +15,6 @@ for i in range(4):
         a = (str(input())).lower()
         if check(a):
             A[i].append(a)
-            print(A)
             break
         else:
             continue
