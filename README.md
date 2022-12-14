@@ -1,4 +1,4 @@
-# 12-е ЗАДАНИЯ **(18/30)**:
+# 12-е ЗАДАНИЯ **(20/30)**:
 
 * [2.1](https://github.com/teqnot/12thTASK/blob/main/2_1.cpp)
 * [2.2](https://github.com/teqnot/12thTASK/blob/main/2_2.cpp)
@@ -20,8 +20,7 @@
   - Текстовый [файл](https://github.com/teqnot/12thTASK/blob/main/2-17Words.txt) для задания.
 * [2.15](https://github.com/teqnot/12thTASK/blob/main/2_15.py)
   - Текстовый [файл](https://github.com/teqnot/12thTASK/blob/main/2-17Words.txt) для задания.
-* [2.16]
-  - Еще нет.
+* [2.16](https://github.com/teqnot/12thTASK/blob/main/2_16.py)
 * [2.17](https://github.com/teqnot/12thTASK/blob/main/2_17.py)
   - Текстовый [файл](https://github.com/teqnot/12thTASK/blob/main/2-17Words.txt) для задания.
 * [2.18](https://github.com/teqnot/12thTASK/blob/main/2_18.py)
