@@ -24,3 +24,7 @@ for h in range(4):
         aTransformed[h].append(alphabet.index(max(A[h][k])) + 1)
 
 print(aTransformed)
+
+
+# by: teqnot
+# under CC BY 4.0

@@ -39,3 +39,7 @@ for s in range(m):
 
 arr.sort(key = lambda x: sum(ch not in "aeiouy" for ch in x), reverse=True)
 print(arr)
+
+
+# by: teqnot
+# under CC BY 4.0

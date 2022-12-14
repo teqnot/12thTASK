@@ -50,3 +50,7 @@ for s in range(m):
 
 
 print(boardCh)
+
+
+# by: teqnot
+# under CC BY 4.0

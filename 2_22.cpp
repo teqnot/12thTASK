@@ -48,3 +48,7 @@ int main()
     sort(arr.begin(), arr.end(), greater<int>());
     for (int i = 0; i < arr.size(); i++) cout << arr[i] << " ";
 }
+
+
+// by: teqnot
+// under CC BY 4.0

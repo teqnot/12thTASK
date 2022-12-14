@@ -79,3 +79,7 @@ int main()
     Print(a, M);  
 
 }
+
+
+// by: teqnot 
+// under CC BY 4.0

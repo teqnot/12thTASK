@@ -42,5 +42,10 @@ def main():
     
     for sm in range(3):
             board3by3[sm].sort()
+            
     print(board3by3)
 main()
+
+
+# by: teqnot
+# under CC BY 4.0

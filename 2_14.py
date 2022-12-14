@@ -37,3 +37,7 @@ for s in range(m):
 
 arr.sort(reverse=True)
 print(arr)
+
+
+# by: teqnot
+# under CC BY 4.0

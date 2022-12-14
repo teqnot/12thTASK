@@ -28,3 +28,7 @@ for l in range(5):
     board[l].sort(reverse=True)
     
 print(board)
+
+
+# by: teqnot
+# under CC BY 4.0

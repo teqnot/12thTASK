@@ -76,7 +76,6 @@ def main():
 
     dSorted = dict(sorted(d.items(), key=lambda item: item[1]))
 
-
     keysD = list(d.keys())
     valuesDSorted = list(dSorted.values())
 
@@ -103,3 +102,7 @@ def main():
         print(' ')
 
 main()
+
+
+# by: teqnot
+# under CC BY 4.0

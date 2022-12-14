@@ -56,3 +56,7 @@ int main()
     arr1.insert(arr1.end(), arr2.begin(), arr2.end());
     for (int i = 0; i < arr1.size(); i++) cout << arr1[i] << " ";
 }
+
+
+// by: teqnot 
+// under CC BY 4.0

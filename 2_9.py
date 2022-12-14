@@ -45,3 +45,7 @@ elif (len(arrEven) == 0):
 else:
     a = arrEven
 print(a)
+
+
+# by: teqnot
+# under CC BY 4.0

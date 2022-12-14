@@ -44,3 +44,7 @@ for s in range(m):
 
 print(gl, sogl)
 print(board)
+
+
+# by: teqnot
+# under CC BY 4.0

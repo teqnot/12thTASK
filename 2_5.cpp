@@ -74,3 +74,7 @@ int main()
  
     return 0;
 }
+
+
+// by: teqnot 
+// under CC BY 4.0

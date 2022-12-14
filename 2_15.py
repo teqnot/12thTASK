@@ -41,6 +41,9 @@ for s in range(m):
     arr.append(buff)
 
 print(board)    
-
 arr.sort(reverse=True)
 print(arr)
+
+
+# by: teqnot
+# under CC BY 4.0

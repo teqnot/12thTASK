@@ -54,3 +54,7 @@ for b in range(len(rightHalf)):
     newBoard[m - c].append(rightHalf[b])
 
 print(newBoard)
+
+
+# by: teqnot
+# under CC BY 4.0

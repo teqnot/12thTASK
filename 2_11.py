@@ -39,3 +39,7 @@ for s in range(m):
 
 arr.sort(key = lambda x: sum(ch in "aeiouy" for ch in x))
 print(arr)
+
+
+# by: teqnot
+# under CC BY 4.0

@@ -1,7 +1,6 @@
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
-#include <ctime>
 using namespace std;
  
 void Random (int **a, int M)
@@ -74,9 +73,15 @@ int main()
     if (foo == 1) Random(a, M);
     else Set(a,M);
     
+    Print(a,M);
+    cout << endl;
     b = Create(a, M, n);
     Sort(b, n);
     Modification(a, M, b);
     Print(a, M);  
 
 }
+
+
+// by: teqnot 
+// under CC BY 4.0

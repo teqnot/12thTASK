@@ -43,3 +43,7 @@ for s in range(m):
         arr[s].append(buff)
 
 print(arr)
+
+
+# by: teqnot
+# under CC BY 4.0

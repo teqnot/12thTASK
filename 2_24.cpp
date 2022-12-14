@@ -83,3 +83,7 @@ int main()
 
     for (int i = 0; i < 32; i++) cout << mas[i] << endl;
 }
+
+
+// by: teqnot
+// under CC BY 4.0
