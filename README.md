@@ -1,4 +1,4 @@
-# 12-е ЗАДАНИЯ **(25/30)**:
+# 12-е ЗАДАНИЯ **(27/30)**:
 
 * [2.1](https://github.com/teqnot/12thTASK/blob/main/2_1.cpp)
 * [2.2](https://github.com/teqnot/12thTASK/blob/main/2_2.cpp)
@@ -31,7 +31,9 @@
 * [2.22](https://github.com/teqnot/12thTASK/blob/main/2_22.cpp)
 * [2.23](https://github.com/teqnot/12thTASK/blob/main/2_23.py)
 * [2.24](https://github.com/teqnot/12thTASK/blob/main/2_24.cpp)
-* [2.25 - 2.28]
+* [2.25](https://github.com/teqnot/12thTASK/blob/main/2_25.py)
+* [2.26](https://github.com/teqnot/12thTASK/blob/main/2_26.py)
+* [2.27 - 2.28]
   - Еще нет.
 * [2.29](https://github.com/teqnot/12thTASK/blob/main/2_29.py)
 * [2.30]
