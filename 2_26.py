@@ -9,7 +9,7 @@ def getHex():
 def bubbleSort(nums):
     for i in range(len(nums) - 1):
         for j in range(len(nums) - i - 1):
-            if nums[j] > nums[j + 1]:
+            if int(nums[j], 16) > int(nums[j + 1], 16):
                 nums[j], nums[j + 1] = nums[j + 1], nums[j]
     return nums
 
