@@ -1,4 +1,4 @@
-# 12-е ЗАДАНИЯ **(28/30)**:
+# 12-е ЗАДАНИЯ **(29/30)**:
 
 * [2.1](https://github.com/teqnot/12thTASK/blob/main/2_1.cpp)
 * [2.2](https://github.com/teqnot/12thTASK/blob/main/2_2.cpp)
@@ -37,8 +37,7 @@
 * [2.28]
   - Еще нет.
 * [2.29](https://github.com/teqnot/12thTASK/blob/main/2_29.py)
-* [2.30]
-  - Еще нет.
+* [2.30](https://github.com/teqnot/12thTASK/blob/main/2_30.py)
 
 # *АХТУНГ*
 - Я максимально постарался удостовериться в правильности всех решений, **НО(!)**, тем не менее ни в коем случае за них не ручаясь.
