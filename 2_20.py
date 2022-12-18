@@ -4,6 +4,7 @@ def main():
     board = [[], [], [], [], [], []]
     board3by6 = [[], [], []]
     board3by3 = [[], [], []]
+    boardCol = [[], [], []]
 
     bar = input()
 
@@ -17,7 +18,9 @@ def main():
             for k in range(6):
                 board[j].append(int(input()))
 
-    print(board)
+    for u in board:
+        print(u)
+    print(' ')
 
     for i in range(5):
         for h in range(6):
@@ -28,8 +31,9 @@ def main():
                     print("Enter the desired mode again: ")
                     main()
 
-
-    print(board3by6)
+    for r in board3by6:
+        print(r)
+    print(' ')
 
     for m in range(3):
         for s in range(5):
@@ -41,13 +45,21 @@ def main():
                     main()
 
     for m in range(3):
-        board3by3[m].sort()
+        print(board3by3[m])
+        for mm in range(3):
+            boardCol[m].append(board3by3[mm][m])
     
-    rez = [[board3by3[j][i] for j in range(len(board3by3))] for i in range(len(board3by3[0]))]
     print(' ')
+    
+    for kk in range(3):
+        boardCol[kk].sort()
+
+    print(' ')
+    
+    rez = [[boardCol[j][i] for j in range(len(boardCol))] for i in range(len(boardCol[0]))]
     for row in rez:
         print(row)
-        
+
 main()
 
 
