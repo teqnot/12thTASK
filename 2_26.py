@@ -15,6 +15,7 @@ def bubbleSort(nums):
 
 board = [[], [], [], []]
 newBoard = [[], [], [], []]
+temp = [[], [], [], []]
 foo = input()
 
 if foo == "r":
@@ -26,16 +27,20 @@ else:
         for _ in range(4):
             board[i].append(input())
 
-print(board)
+for s in board:
+    print(s)
+print(' ')
+
+for smt in range(4):    
+    for sm in range(4):
+        temp[smt].append(board[sm][smt])
 
 for j in range(4):
     for _ in range(4):
-        newBoard[j] = bubbleSort(board[j])
+        newBoard[j] = bubbleSort(temp[j])
         if j % 2 == 0:
             newBoard[j].reverse()
 
-print(newBoard)
-
-
-# by: teqnot
-# under CC BY 4.0
+rez = [[newBoard[j][i] for j in range(len(newBoard))] for i in range(len(newBoard[0]))]
+for row in rez:
+    print(row)
