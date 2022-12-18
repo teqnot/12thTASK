@@ -5,7 +5,8 @@
 * [2.3](https://github.com/teqnot/12thTASK/blob/main/2_3.cpp)
 * [2.4](https://github.com/teqnot/12thTASK/blob/main/2_4.cpp)
 * [2.5](https://github.com/teqnot/12thTASK/blob/main/2_5.cpp)
-* [2.6](https://github.com/teqnot/12thTASK/blob/main/2_6.py)
+* [2.6]
+  - Нет.
 * [2.7](https://github.com/teqnot/12thTASK/blob/main/2_7.cpp)
 * [2.8](https://github.com/teqnot/12thTASK/blob/main/2_8.cpp)
 * [2.9](https://github.com/teqnot/12thTASK/blob/main/2_9.py)
