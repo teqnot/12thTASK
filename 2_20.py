@@ -39,11 +39,15 @@ def main():
                 else:
                     print("Enter the desired mode again: ")
                     main()
+
+    for m in range(3):
+        board3by3[m].sort()
     
-    for sm in range(3):
-            board3by3[sm].sort()
-            
-    print(board3by3)
+    rez = [[board3by3[j][i] for j in range(len(board3by3))] for i in range(len(board3by3[0]))]
+    print(' ')
+    for row in rez:
+        print(row)
+        
 main()
 
 
