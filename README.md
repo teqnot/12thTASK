@@ -33,9 +33,9 @@
 * [2.23](https://github.com/teqnot/12thTASK/blob/main/2_23.py)
 * [2.24](https://github.com/teqnot/12thTASK/blob/main/2_24.cpp)
 * [2.25](https://github.com/teqnot/12thTASK/blob/main/2_25.py)
-* [2.26]
+* [2.26](https://github.com/teqnot/12thTASK/blob/main/2_26.py)
+* [2.27]
   - Нет.
-* [2.27](https://github.com/teqnot/12thTASK/blob/main/2_27.py)
 * [2.28]
   - Нет.
 * [2.29](https://github.com/teqnot/12thTASK/blob/main/2_29.py)
